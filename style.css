@@ -1,0 +1,259 @@
+body{
+	margin: 0 auto;
+}
+.header{
+	min-height: 82px;
+	background-color: #415E9C;
+	margin: 0 auto;
+	padding:0;
+
+}
+.header-left{
+	width:50%;
+	height: 100%
+	text-align: center;
+	float: left;
+	margin: 0 auto;
+	padding:0;
+	min-width:500px;
+}
+
+.logo-image{
+	margin-left: 46%;
+	margin-right: 34%;
+}
+
+
+.header-right{
+	width:50%;
+	height: 100%
+	text-align: left;
+	margin: 0 auto;
+	padding:0;
+	overflow: hidden;
+	min-width:500px;
+}
+.username-container{
+	float: left;
+	margin-left: 5%;
+	color: white;
+	padding-top: 5px;
+	line-height: 25px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.password-container{
+	float: left;
+	margin-left: 20px;
+	color: white;
+	padding-top: 5px;
+	line-height: 25px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.log-in{
+	float: left;
+	margin-left: 20px;
+	color: white;
+	line-height: 25px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	background-color: #3c70a4;
+	border:1px solid #1f4068;
+	border-radius: 5%;
+	margin-top:8px;
+
+}
+.log-in:hover{
+	background-color: #415E9C;
+}
+.forgotten-account{
+	color:rgb(255,255,255);
+	text-decoration: none;
+	opacity: 60%;
+}
+a:hover {
+	text-decoration: underline;
+}
+/*==============================================================Main================================================*/
+
+.main{
+	margin: 0 auto;
+	height: 650px;
+	background-color: #DFE2EE;
+}
+
+.main-left{
+	margin: 0 auto;
+	width: 50%;
+	float: left;
+	min-height: 500px;
+
+
+}
+.main-right{
+	margin:0 auto;
+	width: 50%;
+	overflow:hidden;
+	min-height: 600px;
+}
+.left-text{
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 48%;
+	color: #0E385F;
+
+}
+.left-img{
+margin-left: 28%;
+}
+h1{
+	color: #333333;
+	font-family: sans-serif;
+	margin-left: 20px;
+}
+.main-right-text{
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.first-name, .surname{
+	height: 35px;
+	width: 220px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top:10px;
+	border:.5px solid #3E5B99;
+}
+.mobile-email{
+	height: 35px;
+	width: 450px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top:10px;
+	border:.5px solid #3E5B99;
+}
+.new-password{
+	height: 35px;
+	width: 450px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top:10px;
+	border:.5px solid #3E5B99;
+}
+::placeholder{
+	padding-left: 8px;
+}
+.birthday{
+	padding: 5px 5px;
+	margin-top:5px;
+}
+
+.gender{
+	font-size: 18px;
+	padding-bottom: 5px;
+}
+.sign-up{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding:5px 60px;
+	background-color: #6BA656;
+	color: white;
+	border-radius: 5%;
+	border: 1px solid #FEFEFE;
+}
+
+.main-right-bottom-text{
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.right-bottom-text{
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.footer{
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+
+}
+a{
+	text-decoration: none;
+	margin-left: 5px;
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #3B5998;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+	/*
+}
+.username-container{
+	float: left;
+	margin-left: 100px;
+}
+.password-container{
+	overflow: hidden;
+	padding-left: 20px;
+	float: left;
+}
+.forgotten-account{
+	color:rgb(255,255,255);
+	text-decoration: none;
+	opacity: 60%;
+}
+a:hover {
+	text-decoration: underline;
+}
+.log-in{
+	margin-left: 20px;
+	color: white;
+	background-color: #3c70a4;
+	border:1px solid #1f4068;
+	border-radius: 5%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.log-in:hover{
+	opacity: 100%;
+	background-color: #415E9C;
+}
+.main{
+	background-color: #EFF0F6;
+	height: 600px;
+	margin: 0 auto;
+}
+.main-left{
+	width:50%;
+	float: left;
+	margin: 0 auto;
+	height: 600px;
+}
+.left-text{
+	width: 50%;
+	height: 100px;
+	margin-left: 40%;
+}
+.left-text-style{
+	font-weight: 25px;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: #0E385F;
+}
+.left-img{
+    height: fit-content;
+    margin-left: 22%;
+}*/
